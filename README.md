@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rana Darpan  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python  and Front-End (and a beginner designer) developer .</h3>
+<h3 align="center">A passionate React  and Front-End (and a beginner designer) developer .</h3>
 
 - 🔭 I’m currently working on my **Frontend Development**
 
@@ -42,11 +42,5 @@
   </a>
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
-</p>
-
-------
 
 
