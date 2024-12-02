@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **ranadarpan0@gmail.com**
 
-- ⚡ What I like to do: **I like so much Programming , Vollyball and gaming ...and coding of course**
+- ⚡ What I like to do: **I like so much Exploring , Vollyball and gaming ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
