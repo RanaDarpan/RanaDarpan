@@ -1,7 +1,8 @@
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm Rana Darpan </h1>
-<h3 align="center">A passionate Web Developer </h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%2C%20I%27m%20LachlanDev🚀&fontSize=60)
+
+
 
 
 <!-- Social badges -->
