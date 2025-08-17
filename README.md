@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Futuristic header with gradient + glow -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:9333EA,50:3B82F6,100:14B8A6&fontColor=f9fafb&text=Rana%20Darpan&fontSize=60&fontAlign=50&animation=twinkling&desc=Web%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20DSA%20Explorer&descAlign=50&descSize=18&section=header" alt="Rana Darpan header" />
+<h1 align="center">Hi 👋, I'm Rana Darpan </h1>
+<h3 align="center">A passionate Web Developer </h3>
 
-<!-- Typing effect intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=920&lines=Hey!+I'm+Rana+Darpan+🚀;Full-Stack+Web+Developer;Next.js+15+%7C+MERN+Stack+%7C+Tailwind;JavaFX+%26+Collections+%7C+DSA+Lover;Always+learning+%7C+Always+building" alt="Typing intro" />
 
 <!-- Social badges -->
 <p>
