@@ -32,12 +32,19 @@
 </div>
 
 ---
-
 ## 🚀 Featured Projects
-- ⏱ **[Time-Master](https://github.com/RanaDarpan/Time-Master)** ⏰  — Stopwatch / Clock with polished UI.  
-- 🧭 **Duty Management System** 📝 — Duty orders (create/approve/reject/cancel), **PDF + digital signature**, Drive upload, email, analytics & calendar.  
-- 🔐 **Next.js Auth Dashboard** 🔑 — Modern light theme login/signup, JWT, profile, redirects, protected routes.  
-- 🌦 **Weather App** ⛅ — Search + addons with elegant UI.  
+
+- 🚧 **Sadak Suraksha** 🛣️  
+  AI-inspired road damage detection & risk assessment system with dashboard, reports, and analytics. Currently implemented as a full-stack CRUD system with database, designed for future YOLO-based AI integration.
+
+- 🌾 **AgriSense** 🌱  
+  Smart agriculture platform providing crop health prediction, fertilizer recommendations, weather insights, and an AI chatbot to assist farmers in decision-making.
+
+- 💰 **Expense Tracker** 📊  
+  Full-stack Next.js application to manage income and expenses with interactive charts, category-based tracking,alerts, and real-time financial insights .
+
+- 🚨 **DDANS (Disaster Duty Allocation & Notification System)** 📋  
+  Role-based system for managing disaster duty assignments with task allocation, notifications, audit logs, and real-time tracking.
 
 
 ## 📊 GitHub Highlights
